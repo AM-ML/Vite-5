@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="#000"
+   stroke-width="1.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   class="feather feather-linkedin"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="linkedin.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.921875"
+     inkscape:cx="1.9566075"
+     inkscape:cy="13.822485"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     style="fill:#0663c1;stroke:#0663c1;stroke-width:0.75;stroke-dasharray:none;fill-opacity:1;stroke-opacity:1"
+     id="rect2"
+     width="24"
+     height="24"
+     x="0.047337279"
+     y="0.14201184" />
+  <path
+     d="m 15.422485,8.7972589 a 5.0627219,4.9984429 0 0 1 5.062722,4.9984431 v 5.831517 h -3.375148 v -5.831517 a 1.687574,1.6661476 0 0 0 -1.687574,-1.666147 1.687574,1.6661476 0 0 0 -1.687574,1.666147 v 5.831517 h -3.375148 v -5.831517 a 5.0627219,4.9984429 0 0 1 5.062722,-4.9984431 z"
+     id="path1"
+     style="stroke-width:1.5;stroke:#ffffff;stroke-opacity:1;fill:#ffffff;fill-opacity:1" />
+  <rect
+     x="3.6094675"
+     y="9.6303339"
+     width="3.3751478"
+     height="9.9968853"
+     id="rect1"
+     style="stroke-width:1.5;stroke:#ffffff;stroke-opacity:1;fill:#ffffff;fill-opacity:1" />
+  <ellipse
+     cx="5.2970414"
+     cy="5.4649639"
+     id="circle1"
+     style="stroke-width:1.5;stroke:#ffffff;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+     rx="1.6875739"
+     ry="1.6661476" />
+</svg>
