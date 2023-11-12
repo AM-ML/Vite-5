@@ -500,3 +500,8 @@ label {
   display: none !important; 
   clear: both;
 }
+
+input:focus,
+input:active {
+  outline: 2px solid lightgray !important;
+}
