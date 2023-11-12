@@ -1,7 +1,8 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import { Helmet } from 'react-helmet'
 import { LoadingEffect } from './LoadingEffect';
-import { EffectFunc } from './Components';
+import { DefaultToggler, EffectFunc } from './Components';
+import { CleanUp, Names, People, System } from './links/HomeLinks';
 
 export function Home() {
 	const [loading, setLoading] = useState(true);
@@ -15,17 +16,7 @@ export function Home() {
 		return <LoadingEffect />
 		
 	
-	const Main = () => {
-		return(
-			<div className="container">
-				<div className="row mt-4">
-					
-				</div>
-			</div>
-		)
-	}
-	
-	
+		
 	if(!loading)
 		return (
 			<>
@@ -43,9 +34,14 @@ export function Home() {
 						</div>
 					</div>
 
-					<div className="row">
+					<div className="row mt-5">
 						<div className="col">
-							<Main />
+							<CleanUp />
+							<div className="m-auto place-content-center text-center">
+								<DefaultToggler msg="Toggle Names" Element={Names} className="d-inline-block me-2"/>
+								<DefaultToggler msg="Toggle People" Element={People} className="d-inline-block"/>
+								<DefaultToggler msg="Toggle Form" Element={System} />
+							</div>
 						</div>
 					</div>
 				</div>

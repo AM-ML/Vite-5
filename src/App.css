@@ -482,3 +482,21 @@ label {
 .bg-none *:hover {
   scale: 1.1 !important;
 }
+
+.bg-blue {
+  background: #00f !important; 
+}
+
+.btn:hover {
+  filter: brightness(0.9) !important;
+  scale: 1.01 !important;
+}
+
+.btn:active {
+  scale: 1.03 !important;
+}
+
+.d-blockk {
+  display: none !important; 
+  clear: both;
+}
